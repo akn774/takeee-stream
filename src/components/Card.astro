@@ -1,0 +1,32 @@
+---
+interface Props {
+  hardware: string;
+  software: string;
+  image: string;
+  url: string;
+  achievements: string;
+  notes: string;
+  isStreamed: boolean;
+  search: string;
+}
+
+import Progress from "./ProgressLine.astro";
+
+const { hardware, software, image, url, achievements, notes, isStreamed } = Astro.props;
+
+// 備考欄の文字列を作成する
+var array = [];
+achievements && array.push("🎖️" + achievements);
+notes && array.push(notes);
+var result = array.join(" / ");
+---
+
+<li class="game-card text-light-gray p-1 md:flex md:flex-col">
+  <p class="hardware text-sm">{hardware} {isStreamed && <span>🎥</span>}</p>
+  <p class="software text-sm text-white md:flex-grow">{software}</p>
+  <!-- <Progress /> -->
+  <p class="text-light-gray h-5 leading-5 mt-2 text-xs">
+    {result}
+  </p>
+</li>
+

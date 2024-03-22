@@ -1,0 +1,24 @@
+---
+import Card from "./Card.astro";
+import games from "../config/game.json";
+---
+
+<h1 class="text-3xl text-center text-light-gray font-bold m-auto my-16">🎮<br />My Game History</h1>
+<ul
+  class="m-auto gap-x-4 gap-y-8 grid grid-cols-autofit justify-center md:grid-cols-2 lg:grid-cols-4"
+>
+  {
+    games.map((game) => (
+      <Card
+        hardware={game["hardware"]}
+        software={game["software"]}
+        search={game["search"]}
+        image={game["image"]}
+        url={game["url"]}
+        achievements={game["achievements"]}
+        notes={game["notes"]}
+        isStreamed={game["isStreamed"]}
+      />
+    ))
+  }
+</ul>

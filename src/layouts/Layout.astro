@@ -1,0 +1,77 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+import theme from "../config/theme.json";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+// font families
+const pf = theme.fonts.font_family.primary;
+const sf = theme.fonts.font_family.secondary;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Astro description" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content="/images/icon.jpg" />
+    <title>{title}</title>
+    <!-- progress bar -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/progressbar.js/1.1.1/progressbar.min.js"
+      integrity="sha512-8RAwsP5DBXxOKowV9rc4TwxbW0Z+YG856FOh4ymLgoAQlfhCmkYm8G46FaFAZYsG/J8jcAlI/22q0PSLHz4HAQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
+    <!-- google font css -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href={`https://fonts.googleapis.com/css2?family=${pf}${
+        sf ? "&family=" + sf : ""
+      }&display=swap`}
+      rel="preload"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+  </head>
+  <body>
+    <!-- md:w-11/12 lg:w-9/12 -->
+    <div class="p-1 max-w-sreen-sm md:max-w-screen-md lg:max-w-screen-xl m-auto">
+      <Header />
+      <slot />
+      <Footer />
+    </div>
+  </body>
+  <script>
+    var bar = new ProgressBar.Line(container, {
+      strokeWidth: 4,
+      easing: "easeInOut",
+      duration: 1400,
+      color: "#FFEA82",
+      trailColor: "#eee",
+      trailWidth: 1,
+      svgStyle: { width: "100%", height: "100%" },
+    });
+
+    bar.animate(1.0);
+  </script>
+</html>
+<style is:global>
+  html {
+    font-family:
+      Kosugi Maru,
+      sans-serif;
+    font-weight: 400;
+    background: #1c1c1c;
+    /* background-size: 224px; */
+    /* color: #cc3150; */
+  }
+</style>
