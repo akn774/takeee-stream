@@ -132,7 +132,7 @@
     "software": "どうぶつの森e+",
     "search": "どうぶつの森e+,どう森,ぶつ森,どうぶつのもりいーぷらす,どうもり,ぶつもり",
     "achievements": "",
-    "notes": "モノクロ,ロイヤル",
+    "notes": "",
     "isStreamed": false
   },
   {
@@ -428,7 +428,7 @@
     "software": "モンスターハンターポータブル 2nd",
     "search": "もんすたーはんたーぽーたぶる2nd,もんはん2nd",
     "achievements": "",
-    "notes": "",
+    "notes": "初モンハン",
     "isStreamed": false
   },
   {
@@ -530,7 +530,7 @@
     "software": "真・三國無双4 猛将伝",
     "search": "真・三國無双4,さんごくむそう4",
     "isStreamed": false,
-    "notes": "立志モード：神"
+    "notes": "立志モードが神"
   },
   {
     "hardware": "PS2",
@@ -553,7 +553,7 @@
     "software": "Diablo III: Reaper of Souls",
     "search": "",
     "achievements": "トロコン",
-    "notes": "パラゴン800",
+    "notes": "パラゴン900",
     "isStreamed": false
   },
   {
@@ -624,7 +624,7 @@
     "hardware": "PS5",
     "software": "アサシンクリード ヴァルハラ",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -736,7 +736,7 @@
     "hardware": "PS4",
     "software": "NARUT0-ナルト- 疾風伝ナルティメットストーム 4",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -760,7 +760,7 @@
     "hardware": "PS4",
     "software": "進撃の巨人 2",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -800,8 +800,8 @@
     "hardware": "PS3",
     "software": "魔界戦記ディスガイア4",
     "search": "",
-    "achievements": "トロコン",
-    "notes": "",
+    "achievements": "クリア",
+    "notes": "界賊船パーツ集めで断念",
     "isStreamed": false
   },
   {
@@ -849,7 +849,7 @@
     "software": "テイルズ オブ グレイセス エフ",
     "search": "",
     "achievements": "トロコン",
-    "notes": "",
+    "notes": "ヒューバート",
     "isStreamed": false
   },
   {
@@ -985,7 +985,7 @@
     "software": "ワンダと巨像",
     "search": "",
     "achievements": "",
-    "notes": "操作性にキレて投げてしまった",
+    "notes": "",
     "isStreamed": false
   },
   {
@@ -993,14 +993,14 @@
     "software": "ワンピース海賊無双 3",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "トロコン断念",
     "isStreamed": false
   },
   {
     "hardware": "PS4",
     "software": "アンチャーテッド 海賊王と最後の秘宝",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1008,7 +1008,7 @@
     "hardware": "PS4",
     "software": "アンチャーテッド 砂漠に眠るアトランティスリマスタード",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1016,7 +1016,7 @@
     "hardware": "PS4",
     "software": "アンチャーテッド 黄金刀と消えた船団リマスタード",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1032,7 +1032,7 @@
     "hardware": "PS4",
     "software": "アンチャーテッド エル・ドラドの秘宝リマスタード",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1057,14 +1057,14 @@
     "software": "Skyrim",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "大学で魔法覚えた",
     "isStreamed": false
   },
   {
     "hardware": "PS4",
     "software": "ドラゴンクエストビルダーズ 2 破壊神シドーとからっぽの島",
     "search": "",
-    "achievements": "",
+    "achievements": "トロコン",
     "notes": "",
     "isStreamed": false
   },
@@ -1073,7 +1073,7 @@
     "software": "JUMP FORCE",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "キルア",
     "isStreamed": false
   },
   {
@@ -1081,7 +1081,7 @@
     "software": "ドーントレス",
     "search": "",
     "achievements": "",
-    "notes": "カウンターするのが楽しい",
+    "notes": "カウンター楽しい",
     "isStreamed": false
   },
   {
@@ -1096,7 +1096,7 @@
     "hardware": "PS4",
     "software": "タイタンフォール 2",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1105,14 +1105,14 @@
     "software": "モンスターハンター:ワールド",
     "search": "",
     "achievements": "トロコン",
-    "notes": "",
+    "notes": "弓・ライト",
     "isStreamed": false
   },
   {
     "hardware": "PS4",
     "software": "ロロナのアトリエーアーランドの錬金術士ーDX",
     "search": "",
-    "achievements": "",
+    "achievements": "ノーマルエンド",
     "notes": "",
     "isStreamed": false
   },
@@ -1129,14 +1129,14 @@
     "software": "ドラゴンエイジ: インクイジション",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "上級クラスは解放した",
     "isStreamed": false
   },
   {
     "hardware": "PS4",
     "software": "The Last of Us Remastered",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1152,7 +1152,7 @@
     "hardware": "PS4",
     "software": "テイルズ オブ ベルセリア",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1184,7 +1184,7 @@
     "hardware": "PS4",
     "software": "Red Dead Redemption 2",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1200,7 +1200,7 @@
     "hardware": "PS3",
     "software": "テイルズ オブ ゼスティリア",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1224,7 +1224,7 @@
     "hardware": "PS4",
     "software": "FINALFANTASY XV",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1241,7 +1241,7 @@
     "software": "FINALFANTASY XII THE ZODIAC AGE",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "シド倒した",
     "isStreamed": false
   },
   {
@@ -1256,7 +1256,7 @@
     "hardware": "PS3",
     "software": "WATCH DOGS",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1264,7 +1264,7 @@
     "hardware": "PS3",
     "software": "テイルズ オブ エクシリア 2",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1272,7 +1272,7 @@
     "hardware": "PS3",
     "software": "アンチャーテッド 砂漠に眠るアトランティス",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1280,7 +1280,7 @@
     "hardware": "PS4",
     "software": "Just Cause 3",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1289,14 +1289,14 @@
     "software": "DARK SOULS II SCHOLAR OF THE FIRSTE SIN",
     "search": "",
     "achievements": "",
-    "notes": "",
+    "notes": "三つ子は倒した",
     "isStreamed": false
   },
   {
     "hardware": "PS3",
     "software": "METAL GEAR SOLID V: THE PHANTOME PAIN",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1312,16 +1312,16 @@
     "hardware": "PS3",
     "software": "アサシンクリード IV ブラックフラッグ",
     "search": "",
-    "achievements": "",
-    "notes": "",
+    "achievements": "トロコン",
+    "notes": "海戦おもしろい",
     "isStreamed": false
   },
   {
     "hardware": "PS4",
     "software": "Bloodborne",
     "search": "",
-    "achievements": "",
-    "notes": "",
+    "achievements": "クリア",
+    "notes": "ローゲリウス",
     "isStreamed": false
   },
   {
@@ -1336,7 +1336,7 @@
     "hardware": "PS3",
     "software": "Grand Theft Auto V",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1344,7 +1344,7 @@
     "hardware": "PS3",
     "software": "Dragon's Dogma: Dark Arisen",
     "search": "",
-    "achievements": "",
+    "achievements": "トロコン",
     "notes": "",
     "isStreamed": false
   },
@@ -1360,7 +1360,7 @@
     "hardware": "PS3",
     "software": "STAROCEAN THE LAST HOPE -INTERNATIONAL-",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1368,7 +1368,7 @@
     "hardware": "PS3",
     "software": "テイルズ オブ エクシリア",
     "search": "",
-    "achievements": "",
+    "achievements": "トロコン",
     "notes": "",
     "isStreamed": false
   },
@@ -1384,7 +1384,7 @@
     "hardware": "PS3",
     "software": "バイナリー ドメイン",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1400,15 +1400,15 @@
     "hardware": "PS3",
     "software": "METAL GEAR SOLID 4",
     "search": "",
-    "achievements": "",
-    "notes": "",
+    "achievements": "クリア",
+    "notes": "MGO2も面白かった",
     "isStreamed": false
   },
   {
     "hardware": "PS3",
     "software": "FINAL FANTASY XIII",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1424,7 +1424,7 @@
     "hardware": "PS3",
     "software": "Grand Theft Auto IV",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1440,7 +1440,7 @@
     "hardware": "PS3",
     "software": "KINGDOM HEARTS FINAL MIX",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1448,7 +1448,7 @@
     "hardware": "PS3",
     "software": "ボーダーランズ",
     "search": "",
-    "achievements": "",
+    "achievements": "クリア",
     "notes": "",
     "isStreamed": false
   },
@@ -1489,14 +1489,14 @@
     "software": "テイルズ オブ ヴェスペリア",
     "search": "",
     "achievements": "トロコン",
-    "notes": "",
+    "notes": "ジュディス",
     "isStreamed": false
   },
   {
     "hardware": "Mobile",
     "software": "サマナーズウォー",
     "search": "さまなーずうぉー",
-    "achievements": "アカウントLv100",
+    "achievements": "闇ストライカー",
     "notes": "たまに起動",
     "isStreamed": false
   },
@@ -1523,7 +1523,7 @@
     "image": "HoYoLAB.webp",
     "url": "https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&v=101&gid=2&user_id=214847196&utm_source=share&utm_medium=link&lang=ja-jp&bbs_theme=dark&bbs_theme_device=1&utm_campaign=web#/ys",
     "achievements": "フォンテーヌクリア",
-    "notes": "たまに祝福,Rank60",
+    "notes": "Rank60",
     "isStreamed": false
   },
   {
@@ -1532,8 +1532,8 @@
     "search": "崩壊:すたーれいる,すたれ",
     "image": "HoYoLAB.webp",
     "url": "https://act.hoyolab.com/app/community-game-records-sea/rpg/index.html?bbs_presentation_style=fullscreen&gid=6&utm_campaign=web&utm_id=6&utm_medium=link&utm_source=share&v=101&lang=ja-jp&bbs_theme=dark&bbs_theme_device=1#/hsr",
-    "achievements": "仙舟クリア",
-    "notes": "KFK,Rank65",
+    "achievements": "ピノコニー冒険中",
+    "notes": "Rank65↑",
     "isStreamed": false
   },
   {
@@ -1543,7 +1543,7 @@
     "image": "V_Bug_Negative_Red.png",
     "url": "https://tracker.gg/valorant/profile/riot/takeee%2312345/overview",
     "achievements": "",
-    "notes": "TDM,DM",
+    "notes": "TDM,DMのみ",
     "isStreamed": false
   },
   {
